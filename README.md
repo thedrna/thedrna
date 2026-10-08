@@ -1,4 +1,4 @@
-# Hi, I'm Dorna
+# Hi, I'm Dorna 🤗
 
 I have an MSc in Computer Science from the University of British Columbia. I work on machine learning for messy, real-world data: language models for data integration, document understanding, and vision-language retrieval.
 
